@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
 # Import Splinter and BeautifulSoup and Pandas
 from splinter import Browser
 from bs4 import BeautifulSoup as soup
